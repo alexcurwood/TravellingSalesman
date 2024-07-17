@@ -1,0 +1,5 @@
+USER = wxnq87 (Alex Curwood),
+ALGORITHM CODE = BH, NAME OF CITY-FILE = AISearchfile021.txt,
+SIZE = 21, TOUR LENGTH = 3551,
+14,3,0,2,8,4,12,5,13,1,20,7,9,16,6,10,18,17,19,11,15,
+NOTE = 
