@@ -6,7 +6,7 @@ Given a list of cities and the distances between them, what is the shortest path
 
 ## Objective
 
-This project aims to develop 2 basic and 2 enhanced Python algorithms to solve the Travelling Salesman Problem. The algorithms chosen were Basic Greedy Search and Greedy Best First Search.
+I developed 2 basic and 2 enhanced Python algorithms to solve the Travelling Salesman Problem. The algorithms chosen were Basic Greedy Search and Greedy Best First Search.
 
 ## Contents
 
